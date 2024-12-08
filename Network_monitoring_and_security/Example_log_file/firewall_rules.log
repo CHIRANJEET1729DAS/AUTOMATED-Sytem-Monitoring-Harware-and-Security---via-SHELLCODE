@@ -1,0 +1,9 @@
+Chain INPUT (policy ACCEPT 97969 packets, 117M bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+
+Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+
+Chain OUTPUT (policy ACCEPT 15260 packets, 3637K bytes)
+ pkts bytes target     prot opt in     out     source               destination         
+Date : 08122024 and time : 07:12:29 PM IST
